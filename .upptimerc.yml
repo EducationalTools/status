@@ -27,9 +27,7 @@ status-website:
   introTitle: "**EduTools** Status"
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
-    - title: Status
-      href: /status
     - title: Return to EduTools
-      href: /
+      href: javascript:history.back()
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
