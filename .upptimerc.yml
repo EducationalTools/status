@@ -1,7 +1,6 @@
 owner: EducationalTools
 repo: status
 sites:
-sites:
   - name: github.io (Github Pages)
     expectedStatusCodes:
       - 200
