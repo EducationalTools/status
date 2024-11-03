@@ -1,37 +1,108 @@
 owner: EducationalTools
 repo: status
 sites:
+sites:
   - name: github.io (Github Pages)
+    expectedStatusCodes:
+      - 200
+      - 302
+      - 201
     url: https://educationaltools.github.io/
   - name: pages.dev (Cloudflare Pages)
+    expectedStatusCodes:
+      - 200
+      - 302
+      - 201
     url: https://edutools.pages.dev/
   - name: ingo.au (Hostinger)
+    expectedStatusCodes:
+      - 200
+      - 302
+      - 201
     url: https://edutools.ingo.au/
   - name: ingowolf.au (Hostinger)
+    expectedStatusCodes:
+      - 200
+      - 302
+      - 201
     url: https://edutools.ingowolf.au/
   - name: surge.sh
+    expectedStatusCodes:
+      - 200
+      - 302
+      - 201
     url: https://edutools.surge.sh/
+  - name: infinityfreeapp.com (InfinityFree)
+    expectedStatusCodes:
+      - 200
+      - 302
+      - 201
+    url: http://edutools.infinityfreeapp.com/
   - name: ct.ws (InfinityFree)
+    expectedStatusCodes:
+      - 200
+      - 302
+      - 201
     url: http://edutools.ct.ws/
   - name: rf.gd (InfinityFree)
+    expectedStatusCodes:
+      - 200
+      - 302
+      - 201
     url: http://edutools.rf.gd/
   - name: great-site.net (InfinityFree)
+    expectedStatusCodes:
+      - 200
+      - 302
+      - 201
     url: http://edutools.great-site.net/
   - name: 000.pe (InfinityFree)
+    expectedStatusCodes:
+      - 200
+      - 302
+      - 201
     url: http://edutools.000.pe/
   - name: free.nf (InfinityFree)
+    expectedStatusCodes:
+      - 200
+      - 302
+      - 201
     url: http://edutools.free.nf/
   - name: is-great.net (InfinityFree)
+    expectedStatusCodes:
+      - 200
+      - 302
+      - 201
     url: http://edutools.is-great.net/
   - name: is-great.org (InfinityFree)
+    expectedStatusCodes:
+      - 200
+      - 302
+      - 201
     url: http://edutools.is-great.org/
   - name: web.app (Firebase)
+    expectedStatusCodes:
+      - 200
+      - 302
+      - 201
     url: https://edutools-d915e.web.app/
   - name: firebaseapp.com (Firebase)
+    expectedStatusCodes:
+      - 200
+      - 302
+      - 201
     url: https://edutools-d915e.firebaseapp.com/
   - name: onrender.com (Render)
+    expectedStatusCodes:
+      - 200
+      - 302
+      - 201
     url: https://educationaltools-github-io.onrender.com/
   - name: vercel.app (Vercel)
+    expectedStatusCodes:
+      - 200
+      - 302
+      - 201
     url: https://educationaltools.vercel.app/
 
 status-website:
