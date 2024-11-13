@@ -1,7 +1,7 @@
 url: https://edutools.surge.sh/
-status: up
-code: 200
-responseTime: 737
-lastUpdated: 2024-11-12T23:20:02.043Z
+status: down
+code: 504
+responseTime: 8649
+lastUpdated: 2024-11-13T18:09:54.875Z
 startTime: 2024-11-03T04:29:37.849Z
 generator: Upptime <https://github.com/upptime/upptime>
