@@ -103,7 +103,7 @@
     "time": 552,
     "timeDay": 714,
     "timeWeek": 567,
-    "timeMonth": 609,
+    "timeMonth": 610,
     "timeYear": 552,
     "dailyMinutesDown": {}
   },
@@ -121,7 +121,7 @@
     "time": 804,
     "timeDay": 1451,
     "timeWeek": 877,
-    "timeMonth": 842,
+    "timeMonth": 843,
     "timeYear": 804,
     "dailyMinutesDown": {}
   },
@@ -157,7 +157,7 @@
     "time": 508,
     "timeDay": 446,
     "timeWeek": 453,
-    "timeMonth": 518,
+    "timeMonth": 519,
     "timeYear": 508,
     "dailyMinutesDown": {}
   },
@@ -175,7 +175,7 @@
     "time": 809,
     "timeDay": 706,
     "timeWeek": 776,
-    "timeMonth": 824,
+    "timeMonth": 822,
     "timeYear": 809,
     "dailyMinutesDown": {}
   },
@@ -184,7 +184,7 @@
     "url": "http://edutools.free.nf/",
     "icon": "https://icons.duckduckgo.com/ip3/edutools.free.nf.ico",
     "slug": "free-nf-infinity-free",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -193,7 +193,7 @@
     "time": 796,
     "timeDay": 607,
     "timeWeek": 716,
-    "timeMonth": 902,
+    "timeMonth": 903,
     "timeYear": 796,
     "dailyMinutesDown": {}
   },
@@ -211,7 +211,7 @@
     "time": 697,
     "timeDay": 648,
     "timeWeek": 637,
-    "timeMonth": 727,
+    "timeMonth": 728,
     "timeYear": 697,
     "dailyMinutesDown": {}
   },
@@ -229,7 +229,7 @@
     "time": 659,
     "timeDay": 597,
     "timeWeek": 751,
-    "timeMonth": 706,
+    "timeMonth": 707,
     "timeYear": 659,
     "dailyMinutesDown": {}
   },
