@@ -103,7 +103,7 @@
     "time": 594,
     "timeDay": 802,
     "timeWeek": 884,
-    "timeMonth": 669,
+    "timeMonth": 670,
     "timeYear": 594,
     "dailyMinutesDown": {}
   },
@@ -121,7 +121,7 @@
     "time": 849,
     "timeDay": 1190,
     "timeWeek": 1236,
-    "timeMonth": 916,
+    "timeMonth": 917,
     "timeYear": 849,
     "dailyMinutesDown": {}
   },
@@ -130,15 +130,15 @@
     "url": "http://edutools.rf.gd/",
     "icon": "https://icons.duckduckgo.com/ip3/edutools.rf.gd.ico",
     "slug": "rf-gd-infinity-free",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 631,
-    "timeDay": 798,
-    "timeWeek": 977,
+    "timeDay": 773,
+    "timeWeek": 973,
     "timeMonth": 702,
     "timeYear": 631,
     "dailyMinutesDown": {}
@@ -157,7 +157,7 @@
     "time": 565,
     "timeDay": 1165,
     "timeWeek": 958,
-    "timeMonth": 618,
+    "timeMonth": 619,
     "timeYear": 565,
     "dailyMinutesDown": {}
   },
@@ -175,7 +175,7 @@
     "time": 868,
     "timeDay": 1652,
     "timeWeek": 1121,
-    "timeMonth": 894,
+    "timeMonth": 895,
     "timeYear": 868,
     "dailyMinutesDown": {}
   },
@@ -193,7 +193,7 @@
     "time": 845,
     "timeDay": 1556,
     "timeWeek": 1169,
-    "timeMonth": 999,
+    "timeMonth": 1000,
     "timeYear": 845,
     "dailyMinutesDown": {}
   },
@@ -211,7 +211,7 @@
     "time": 756,
     "timeDay": 1682,
     "timeWeek": 1160,
-    "timeMonth": 840,
+    "timeMonth": 841,
     "timeYear": 756,
     "dailyMinutesDown": {}
   },
