@@ -102,7 +102,7 @@
     "uptimeYear": "100.00%",
     "time": 588,
     "timeDay": 440,
-    "timeWeek": 676,
+    "timeWeek": 679,
     "timeMonth": 660,
     "timeYear": 588,
     "dailyMinutesDown": {}
@@ -120,7 +120,7 @@
     "uptimeYear": "100.00%",
     "time": 846,
     "timeDay": 909,
-    "timeWeek": 1007,
+    "timeWeek": 1014,
     "timeMonth": 910,
     "timeYear": 846,
     "dailyMinutesDown": {}
@@ -138,7 +138,7 @@
     "uptimeYear": "100.00%",
     "time": 627,
     "timeDay": 494,
-    "timeWeek": 889,
+    "timeWeek": 838,
     "timeMonth": 695,
     "timeYear": 627,
     "dailyMinutesDown": {}
@@ -156,7 +156,7 @@
     "uptimeYear": "100.00%",
     "time": 564,
     "timeDay": 624,
-    "timeWeek": 778,
+    "timeWeek": 781,
     "timeMonth": 617,
     "timeYear": 564,
     "dailyMinutesDown": {}
@@ -166,17 +166,17 @@
     "url": "http://edutools.000.pe/",
     "icon": "https://icons.duckduckgo.com/ip3/edutools.000.pe.ico",
     "slug": "000-pe-infinity-free",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 882,
-    "timeDay": 1016,
-    "timeWeek": 1080,
-    "timeMonth": 916,
-    "timeYear": 882,
+    "time": 892,
+    "timeDay": 1370,
+    "timeWeek": 1140,
+    "timeMonth": 930,
+    "timeYear": 892,
     "dailyMinutesDown": {}
   },
   {
@@ -192,7 +192,7 @@
     "uptimeYear": "100.00%",
     "time": 847,
     "timeDay": 973,
-    "timeWeek": 1021,
+    "timeWeek": 1026,
     "timeMonth": 998,
     "timeYear": 847,
     "dailyMinutesDown": {}
@@ -210,7 +210,7 @@
     "uptimeYear": "100.00%",
     "time": 755,
     "timeDay": 903,
-    "timeWeek": 960,
+    "timeWeek": 965,
     "timeMonth": 836,
     "timeYear": 755,
     "dailyMinutesDown": {}
@@ -228,7 +228,7 @@
     "uptimeYear": "100.00%",
     "time": 696,
     "timeDay": 600,
-    "timeWeek": 792,
+    "timeWeek": 795,
     "timeMonth": 767,
     "timeYear": 696,
     "dailyMinutesDown": {}
